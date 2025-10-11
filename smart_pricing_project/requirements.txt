@@ -1,0 +1,16 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.44
+peft>=0.10
+lightgbm>=4.0
+scikit-learn>=1.5
+numpy>=1.26
+pandas>=2.2
+tqdm
+Pillow
+requests
+networkx
+matplotlib
+sentence-transformers
+datasets
+scipy
